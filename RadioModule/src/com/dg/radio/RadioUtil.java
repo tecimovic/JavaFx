@@ -7,4 +7,8 @@ public class RadioUtil {
     public static String name() {
         return "Digital Geyser";
     }
+
+    public static String name2() {
+        return "Digital Geyser 2";
+    }
 }
